@@ -38,6 +38,7 @@ redirect_from:
 # 📝 发表成果
 
 ## 1.  期刊论文
+*   [**Xiong, S.**](https://www.scholat.com/xiongsf "作者本人"), Zhang, G., Batra, V., Xi, L., Shi, L., & Liu, L. [TRIMOON: Two-Round Inconsistency-based Multi-modal fusion Network for fake news detection.]([https://www.scholat.com/portalPaperInfo.html?paperID=51848\&Entry=xiongsf](https://www.sciencedirect.com/science/article/pii/S1566253522002639) "论文信息浏览") Information Fusion, 2023(93), 150–158.
 
 *   [**Xiong, Shufeng**](https://www.scholat.com/xiongsf "作者本人"), Batra, Vishwash, Liu, Liangliang, Xi, Lei, Sun, Changxia. [Detecting Personal Medication Intake in Twitter via Domain Attention-Based RNN with Multi-Level Features. ](https://www.scholat.com/portalPaperInfo.html?paperID=51848\&Entry=xiongsf "论文信息浏览") Computational Intelligence and Neuroscience, Hindawi Limited, 2022 , 2022
 *   Wang, Bingkun, He, Weina, Yang, Zhen, **Xiong, Shufeng**\*. [An Unsupervised Sentiment Classification Method Based on Multi-Level Fuzzy Computing and Multi-Criteria Fusion. ](https://www.scholat.com/portalPaperInfo.html?paperID=51846\&Entry=xiongsf "论文信息浏览") IEEE Access, Institute of Electrical and Electronics Engineers Inc., 2020 , 8: 145422--145434
