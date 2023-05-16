@@ -28,7 +28,7 @@ author:
   employer         : "河南农业大学"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dOojzGoAAAAJ"
-  email            : "xsf@whu.edu.cn"
+  email            : ""
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-5727-1766"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
