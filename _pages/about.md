@@ -21,7 +21,10 @@ redirect_from:
 
 <span id="news"></span>
 # 🔥 动态
-
+*   *2023年10月*： 🎉🎉 教育部人文社科基金项目顺利结题！
+*   *2023年10月*： 🎉🎉 河南省科技计划项目顺利结题！
+*   *2023年9月*： 🎉🎉 硕士生刘文卓、王兰兰加入研究组，欢迎
+*   *2023年6月*： 🎉🎉 本科生张一鸣、张旭加入研究组，欢迎
 *   *2023年6月*： 🎉🎉 一篇关于食品安全事件分类的论文被SCI期刊Heliyon录用
 *   *2023年5月*： 🎉🎉 一篇关于文本情感结构计算的论文被SCI期刊Entropy录用
 *   *2022年12月*： 🎉🎉 一篇关于多模态虚假新闻检测的论文被一区TOP期刊Information Fusion录用
@@ -41,8 +44,11 @@ redirect_from:
 # 📝 发表成果
 
 ## 1.  期刊论文
+*  Liu, Liangliang, Ying Wang, Jing Chang, Pei Zhang, Shufeng Xiong, and Hebing Liu. "A correlation graph attention network for classifying chromosomal instabilities from histopathology whole-slide images." iScience 26, no. 6 (2023).
 *   [**Xiong, S.**](https://www.scholat.com/xiongsf "作者本人"), Zhang, G., Batra, V., Xi, L., Shi, L., & Liu, L. [TRIMOON: Two-Round Inconsistency-based Multi-modal fusion Network for fake news detection.]([https://www.scholat.com/portalPaperInfo.html?paperID=51848\&Entry=xiongsf](https://www.sciencedirect.com/science/article/pii/S1566253522002639) "论文信息浏览") Information Fusion, 2023(93), 150–158. (中科院SCI一区TOP，影响因子17.564)
-
+*   Liu, Liangliang, Yu-Ping Wang, Yi Wang, Pei Zhang, and Shufeng Xiong. "An enhanced multi-modal brain graph network for classifying neuropsychiatric disorders." Medical image analysis 81 (2022): 102550. (SCI)
+*   Liu, Liangliang, Jing Chang, Pei Zhang, Hongbo Qiao, and Shufeng Xiong. "SASG-GCN: self-attention similarity guided graph convolutional network for multi-type lower-grade glioma classification." IEEE Journal of Biomedical and Health Informatics (2023). (SCI TOP)
+*  Liu, Liangliang, Jing Chang, Gongbo Liang, and Shufeng Xiong. "Simulated quantum mechanics-based joint learning network for stroke lesion segmentation and tici grading." IEEE Journal of Biomedical and Health Informatics (2023). (SCI TOP)
 *   [**Xiong, Shufeng**](https://www.scholat.com/xiongsf "作者本人"), Batra, Vishwash, Liu, Liangliang, Xi, Lei, Sun, Changxia. [Detecting Personal Medication Intake in Twitter via Domain Attention-Based RNN with Multi-Level Features. ](https://www.scholat.com/portalPaperInfo.html?paperID=51848\&Entry=xiongsf "论文信息浏览") Computational Intelligence and Neuroscience, Hindawi Limited, 2022 , 2022. (中科院SCI)
 *   Wang, Bingkun, He, Weina, Yang, Zhen, **Xiong, Shufeng**\*. [An Unsupervised Sentiment Classification Method Based on Multi-Level Fuzzy Computing and Multi-Criteria Fusion. ](https://www.scholat.com/portalPaperInfo.html?paperID=51846\&Entry=xiongsf "论文信息浏览") IEEE Access, Institute of Electrical and Electronics Engineers Inc., 2020 , 8: 145422--145434. (中科院SCI)
 *   [**Xiong, Shufeng**](https://www.scholat.com/xiongsf "作者本人"), Ma, Li, Cheng, Ming, Wang, Bingkun\*. [Pinyin-to-Chinese conversion on sentence-level for domain-specific applications using self-attention model. ](https://www.scholat.com/portalPaperInfo.html?paperID=51847\&Entry=xiongsf "论文信息浏览") Multimedia Systems, Springer Science and Business Media Deutschland GmbH, 2021 , 1: 1--12. (中科院SCI)
