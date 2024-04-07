@@ -48,7 +48,7 @@ redirect_from:
 <span id="publications"></span>
 # 📝 发表成果
 
-## 1.  期刊论文
+## 1.  期刊论文(部分)
 *  Liu, Liangliang, Ying Wang, Jing Chang, Pei Zhang, Shufeng Xiong, and Hebing Liu. "A correlation graph attention network for classifying chromosomal instabilities from histopathology whole-slide images." iScience 26, no. 6 (2023).
 *   [**Xiong, S.**](https://www.scholat.com/xiongsf "作者本人"), Zhang, G., Batra, V., Xi, L., Shi, L., & Liu, L. [TRIMOON: Two-Round Inconsistency-based Multi-modal fusion Network for fake news detection.]([https://www.scholat.com/portalPaperInfo.html?paperID=51848\&Entry=xiongsf](https://www.sciencedirect.com/science/article/pii/S1566253522002639) "论文信息浏览") Information Fusion, 2023(93), 150–158. (中科院SCI一区TOP，影响因子17.564)
 *   Liu, Liangliang, Yu-Ping Wang, Yi Wang, Pei Zhang, and Shufeng Xiong. "An enhanced multi-modal brain graph network for classifying neuropsychiatric disorders." Medical image analysis 81 (2022): 102550. (SCI)
@@ -65,7 +65,7 @@ redirect_from:
 *   [**Xiong, S.**](https://www.scholat.com/xiongsf "作者本人"), [Ji, D.](https://www.scholat.com/search/papersearch.jsp?q=Ji,%20D.\&fq=Paper\&isInsideSearch=1)\*. [Query-focused multi-document summarization using hypergraph-based ranking. ].(https://www.scholat.com/portalPaperInfo.html?paperID=51754\&Entry=xiongsf "论文信息浏览") Information Processing and Management, 2016 , 52(4). (中科院SCI二区,影响因子2.391)
 *   [**Xiong, S.**](https://www.scholat.com/xiongsf "作者本人"), Ji, D.\*. [Exploiting flexible-constrained K-means clustering with word embedding for aspect-phrase grouping. ](https://www.scholat.com/portalPaperInfo.html?paperID=51755\&Entry=xiongsf "论文信息浏览") Information Sciences, 2016 , 367-368. (中科院SCI一区，影响因子4.832)
 
-## 2.  会议论文
+## 2.  会议论文(部分)
 
 *   [**Xiong, S.**](https://www.scholat.com/xiongsf "作者本人"), Zhang, Y., Ji, D.\*, Lou, Y.. [Distance metric learning for aspect phrase grouping. ](https://www.scholat.com/portalPaperInfo.html?paperID=51757\&Entry=xiongsf "论文信息浏览") COLING 2016 - 26th International Conference on Computational Linguistics, Proceedings of COLING 2016: Technical Papers, 2016  
 *   [**Xiong, S.**](https://www.scholat.com/xiongsf "作者本人"), [Ji, D.](https://www.scholat.com/search/papersearch.jsp?q=Ji,%20D.\&fq=Paper\&isInsideSearch=1)\*. [Exploiting capacity-constrained k-means clustering for aspect-phrase grouping. ](https://www.scholat.com/portalPaperInfo.html?paperID=51753\&Entry=xiongsf "论文信息浏览") Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2015 , 9403
@@ -75,7 +75,7 @@ redirect_from:
 *   [熊蜀峰](https://www.scholat.com/xiongsf). [面向社交媒体的观点分析技术研究. ](https://www.scholat.com/portalPublicationInfo.html?publicationID=1947\&Entry=xiongsf "著作信息浏览")新华出版社. 2020.06
 
 <span id="honnor"></span>
-# 🎖 项目及奖项
+# 🎖 项目及奖项(部分)
 
 *   面向信息处理的汉语文本情感结构的描写机制与资源建设研究(19YJCZH198)，教育部，2019.3-2022.12
 *   涉农舆情分析系统关键技术研究(222102110423)，河南省科技厅，2022.1-2024.12
