@@ -25,6 +25,8 @@ redirect_from:
 <span id="news"></span>
 # 🔥 动态
 
+*   *2025年6月*： 🎉 刘文卓硕士毕业、入职信阳学院
+*   *2026年6月*： 🎉🎉 **一篇关于半监督学习论文被一区TOP期刊Expert Systems with Application录用**
 *   *2025年10月*： 🎉🎉 **一篇关于图文融合病害检测论文被一区TOP期刊Computers and Electronics in Agriculture录用**
 *   *2025年9月*： 🎉 硕士生尚子琪加入研究组，欢迎
 *   *2025年9月*： 🎉 硕士生范铭洋加入研究组，欢迎
@@ -64,6 +66,7 @@ redirect_from:
 # 📝 发表成果
 
 ## 1.  期刊论文(部分)
+* **Xiong, Shufeng**, Yanan Zhou, Yanyang Hou, Yinchao Che, Lei Shi, and Haiping Si. 2026. “ARMS: Attention-Driven Representation Reconstruction with Multi-Signal Pseudo-Label Selection for Semi-Supervised Text Classification.” Expert Systems with Applications 330: 133018. doi:https://doi.org/10.1016/j.eswa.2026.133018.
 * **Xiong, S.**, Wang, L., Zhang, Y., Dong, P., Wang, B., Che, Y., Shi, L., & Si, H. (2025). Boosting crop disease recognition via automated image description generation and multimodal fusion. Computers and Electronics in Agriculture, 239(PC), 111082. 
 * Xiong, S., Liu, W., Wang, B., & Che, Y. (2025). Topic adversarial neural network for cross-topic cyberbullying detection. PeerJ Computer Science, 11, e2942.
 * **Xiong, S.**, Si, Y., Zhang, G., Wang, B., Zheng, G., & Si, H. (2025). DDSUD : dynamically detecting subsequence uncertainty and diversity for active learning in imbalanced Chinese sentiment analysis. PeerJ. Computer Science, 11, e3091. 
