@@ -27,7 +27,7 @@ redirect_from:
 
 *   *2026年6月*： 🎉🎉 **一篇关于多模态情感分析论文被一区TOP期刊Information Sciences录用**
 *   *2026年6月*： 🎉🎉 **一篇关于半监督学习论文被一区TOP期刊Expert Systems with Application录用**
-*   *2026年6月*： 🎉🎉 本科毕业生：张继雲保研电子科技大学
+*   *2026年6月*： 🎉 本科毕业生：张继雲保研电子科技大学
 *   *2026年6月*： 🎉 刘文卓硕士毕业、入职信阳学院
 *   *2025年10月*： 🎉🎉 **一篇关于图文融合病害检测论文被一区TOP期刊Computers and Electronics in Agriculture录用**
 *   *2025年9月*： 🎉 硕士生尚子琪加入研究组，欢迎
