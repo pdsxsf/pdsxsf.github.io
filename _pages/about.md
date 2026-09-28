@@ -17,7 +17,7 @@ redirect_from:
 
 <span id="about-me"></span>
 
-熊蜀峰，男，博士，教授，博士生导师，河南省青年骨干教师，河南农业大学拔尖人才，平顶山市青年科技专家。武汉大学博士，郑州大学博士后、英国University of Warwick访问学者，曾获得国家留学基金委资助澳大利亚悉尼科技大学公派访学。主要学术研究方向是自然语言处理、多模态融合分析、农业信息挖掘、食品安全信息监控、机器学习行业应用等，近五年先后主持教育部人文社科基金项目1项、河南省科技计划2项、河南省教育厅重点项目2项，在计算机学会推荐人工智能领域著名会议期刊发表多篇论文，其中SCI检索论文20余篇（中科院一区TOP 4篇，单篇最高影响因子17.564），EI检索论文10余篇，荣获河南省自然科学学术奖论文一等奖1项、多项市厅级奖项，申请多项专利及软件著作权，受邀担任Information Fusion、KBS、TSCC等10余本SCI期刊审稿人、中国中文信息学会大模型与生成专委会委员、中国中文信息学会情感计算专委会委员、中国中文信息学会青年工作委员会委员。
+熊蜀峰，男，博士，教授，博士生导师，河南省青年骨干教师，河南农业大学拔尖人才，平顶山市青年科技专家。武汉大学博士，郑州大学博士后、英国University of Warwick访问学者，曾获得国家留学基金委资助澳大利亚悉尼科技大学公派访学。主要学术研究方向是自然语言处理、多模态融合分析、农业信息挖掘、食品安全信息监控、机器学习行业应用等，近五年先后主持教育部人文社科基金项目1项、河南省科技计划2项、河南省教育厅重点项目2项，在计算机学会推荐人工智能领域著名会议期刊发表多篇论文，其中SCI检索论文20余篇（中科院一区TOP 4篇，单篇最高影响因子17.564），EI检索论文10余篇，荣获河南省自然科学学术奖论文一等奖1项、多项市厅级奖项，申请多项专利及软件著作权，受邀担任Information Fusion、KBS、TSCC等10余本SCI期刊审稿人、中国中文信息学会大模型与生成专委会委员、中国中文信息学会情感计算专委会委员、中国中文信息学会青年工作委员会委员。[  ](https://github.com/pdsxsf/pdsxsf.github.io/edit/main/_pages/about.md)
 
 课题组长期招收本科生及硕士生：
 期待合作的同学具备以下三个方面的优秀素质：1）良好个人素质，在个人和专业方面展现出勤奋、负责、积极主动和努力的良好习惯。2）能够在得到指导后相对独立地完成研究任务，并撰写研究论文。3）对科研充满热情，热衷实践，动手能力强。欢迎符合以上条件的同学积极联系！如需更多详情，请联系司一博，微信：yb_17838892861。
@@ -25,6 +25,12 @@ redirect_from:
 <span id="news"></span>
 # 🔥 动态
 
+
+*   *2026年9月*： 🎉 硕士生邵子恩加入研究组，欢迎
+*   *2026年9月*： 🎉 硕士生张岩岩加入研究组，欢迎
+*   *2026年9月*： 🎉🎉 **一篇关于虚假信息检测论文被CCF B类会议WISE 2026录用**
+*   *2026年8月*： 🎉🎉 **一篇关于农业谣言检测论文被一区TOP期刊Information Sciences录用**
+*   *2026年8月*： 🎉🎉 **一篇关于多模态融合病害检测论文被一区TOP期刊Expert Systems with Application录用**
 *   *2026年6月*： 🎉🎉 **一篇关于多模态情感分析论文被一区TOP期刊Information Sciences录用**
 *   *2026年6月*： 🎉🎉 **一篇关于半监督学习论文被一区TOP期刊Expert Systems with Application录用**
 *   *2026年6月*： 🎉 本科毕业生：张继雲保研电子科技大学
@@ -48,8 +54,8 @@ redirect_from:
 *   *2023年9月*： 🎉🎉 **张桂培获得研究生国家奖学金，热烈祝贺！团队在读同学本硕国奖双全！！**
 *   *2023年9月*： 🎉 硕士生刘文卓、王兰兰加入研究组，欢迎
 *   *2023年6月*： 🎉 本科生张一鸣、张旭加入研究组，欢迎
-*   *2023年6月*： 🎉 一篇关于食品安全事件分类的论文被SCI期刊Heliyon录用
-*   *2023年5月*： 🎉 一篇关于文本情感结构计算的论文被SCI期刊Entropy录用
+*   *2023年6月*： 🎉 一篇关于食品安全事件分类的论文被SCI期刊录用
+*   *2023年5月*： 🎉 一篇关于文本情感结构计算的论文被SCI期刊录用
 *   *2022年12月*： 🎉🎉 **一篇关于多模态虚假新闻检测的论文被一区TOP期刊Information Fusion录用**
 *   *2022年10月*： 🎉 本科生许恒瑞加入研究组，欢迎
 *   *2022年9月*： 🎉🎉 **樊晓博获得本科生国家奖学金，热烈祝贺！**
@@ -68,13 +74,15 @@ redirect_from:
 # 📝 发表成果
 
 ## 1.  期刊论文(部分)
+* **Xiong, Shufeng**, Lanlan Wang, Yanyang Hou, Yinchao Che, Haiping Si, and Lei Shi. 2027. “Prototype-Guided Dual-Gate Multimodal Fusion for Robust Crop Disease Recognition.” Expert Systems With Applications 332(PD): 133700. doi:10.1016/j.eswa.2026.133700.
+* **Xiong, Shufeng**, Yibo Si, Yanyang Hou, Yanling Li, Zhenye Wang, and Haiping Si. 2027. “SEAR : Structured Entity Alignment Reasoning for Agricultural Rumor Detection.” Information Sciences 758(August 2026): 123985. doi:10.1016/j.ins.2026.123985.
+* **Xiong, Shufeng**, Yiming Zhang, Rongfang Wang, Yanyang Hou, Yanling Li, Zhenye Wang, and Haiping Si. 2026. “MVIF : Multi-View Information Fusion for Multimodal Aspect-Based Sentiment Analysis via LLM Cross-Modal Translation.” Information Sciences 755(May): 123765. doi:10.1016/j.ins.2026.123765.
 * **Xiong, Shufeng**, Yanan Zhou, Yanyang Hou, Yinchao Che, Lei Shi, and Haiping Si. 2026. “ARMS: Attention-Driven Representation Reconstruction with Multi-Signal Pseudo-Label Selection for Semi-Supervised Text Classification.” Expert Systems with Applications 330: 133018. doi:https://doi.org/10.1016/j.eswa.2026.133018.
 * **Xiong, S.**, Wang, L., Zhang, Y., Dong, P., Wang, B., Che, Y., Shi, L., & Si, H. (2025). Boosting crop disease recognition via automated image description generation and multimodal fusion. Computers and Electronics in Agriculture, 239(PC), 111082. 
 * Xiong, S., Liu, W., Wang, B., & Che, Y. (2025). Topic adversarial neural network for cross-topic cyberbullying detection. PeerJ Computer Science, 11, e2942.
 * **Xiong, S.**, Si, Y., Zhang, G., Wang, B., Zheng, G., & Si, H. (2025). DDSUD : dynamically detecting subsequence uncertainty and diversity for active learning in imbalanced Chinese sentiment analysis. PeerJ. Computer Science, 11, e3091. 
 * **Xiong, S.**, Tian, W., Wang, B., Zhang, Y., Zhang, X., Che, Y., Shi, L., & Si, H. (2025). Enhancing food safety review classification with large language models and label embedding. Expert Systems with Applications, 283(March), 127550. 
 * **Xiong, S.**, Zhang, G., Fan, X., Tian, W., Xi, L., Liu, H., & Si, H. (2025). MAL: multilevel active learning with BERT for Chinese textual affective structure analysis. Frontiers of Information Technology & Electronic Engineering, 26(6), 833–846. 
-*  Liu, Liangliang, Ying Wang, Jing Chang, Pei Zhang, Shufeng Xiong, and Hebing Liu. "A correlation graph attention network for classifying chromosomal instabilities from histopathology whole-slide images." iScience 26, no. 6 (2023).
 *   [**Xiong, S.**](https://www.scholat.com/xiongsf "作者本人"), Zhang, G., Batra, V., Xi, L., Shi, L., & Liu, L. [TRIMOON: Two-Round Inconsistency-based Multi-modal fusion Network for fake news detection.]([https://www.scholat.com/portalPaperInfo.html?paperID=51848\&Entry=xiongsf](https://www.sciencedirect.com/science/article/pii/S1566253522002639) "论文信息浏览") Information Fusion, 2023(93), 150–158. (中科院SCI一区TOP，影响因子17.564)
 *   Liu, Liangliang, Yu-Ping Wang, Yi Wang, Pei Zhang, and **Xiong, Shufeng**\*. "An enhanced multi-modal brain graph network for classifying neuropsychiatric disorders." Medical image analysis 81 (2022): 102550. (SCI)
 *   Liu, Liangliang, Jing Chang, Pei Zhang, Hongbo Qiao, and **Xiong, Shufeng**\*. "SASG-GCN: self-attention similarity guided graph convolutional network for multi-type lower-grade glioma classification." IEEE Journal of Biomedical and Health Informatics (2023). (SCI TOP)
